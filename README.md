@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Coding Ranjith</h1>
-<h3 align="center">A passionate Full Stack Developer and CyberSecurity Student from India</h3>
-
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingranjith&label=Profile%20views&color=0e75b6&style=flat" alt="codingranjith" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingranjith" alt="codingranjith" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/codingranjith" target="blank"><img src="https://img.shields.io/twitter/follow/codingranjith?logo=twitter&style=for-the-badge" alt="codingranjith" /></a> </p>
+
+- 🌱 Learning Never Stops 🚀
 
 - 📝 I regularly write articles on [https://techackode.blogspot.com/](https://techackode.blogspot.com/)
 
@@ -52,3 +53,7 @@
 <a href="https://github.com/CodingRanjith">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingRanjith&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingRanjith&theme=dark" alt="CodingRanjith" /></p>
+  </div>
