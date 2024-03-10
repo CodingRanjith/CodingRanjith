@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **ranjith.c96me@gmail.com**
 
+- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: He/His
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
