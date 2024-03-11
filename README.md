@@ -171,9 +171,6 @@
 #### Mobile OS
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
-[![LineageOS](https://img.shields.io/badge/LineageOS-00A78D?style=for-the-badge&logo=lineageos&logoColor=white)](https://lineageos.org/)
-[![Ubuntu Touch](https://img.shields.io/badge/Ubuntu_Touch-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubports.com/)
-
 
 ### IDEs/Editors
 
