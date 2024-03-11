@@ -133,6 +133,8 @@
 
 ### CyberSecurity and Ethical Hacking 
 
+### CyberSecurity and Ethical Hacking 
+
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-%23E9560D.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?style=for-the-badge&logo=metasploit&logoColor=red)](https://www.metasploit.com/)
@@ -143,19 +145,34 @@
 [![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-0AC918?style=for-the-badge&logo=johntheripper&logoColor=white)](https://www.openwall.com/john/)
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-8C0000?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
 [![SQLmap](https://img.shields.io/badge/SQLmap-%232D2D2D.svg?style=for-the-badge&logo=sqlmap&logoColor=white)](http://sqlmap.org/)
-[![Hydra](https://img.shields.io/badge/Hydra-%238B0000.svg?style=for-the-badge&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
-[![Acunetix](https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&logo=acunetix&logoColor=white)](https://www.acunetix.com/)
-[![OpenVAS](https://img.shields.io/badge/OpenVAS-000000?style=for-the-badge&logo=openvas&logoColor=white)](https://www.openvas.org/)
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
-[![ZAP](https://img.shields.io/badge/ZAP-000000?style=for-the-badge&logo=owasp-zap&logoColor=white)](https://www.zaproxy.org/)
-[![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=mimikatz&logoColor=white)](https://github.com/gentilkiwi/mimikatz)
-[![DirBuster](https://img.shields.io/badge/DirBuster-000000?style=for-the-badge&logo=dirbuster&logoColor=white)](https://sourceforge.net/projects/dirbuster/)
-[![Social Engineering Toolkit](https://img.shields.io/badge/Social%20Engineering%20Toolkit-000000?style=for-the-badge&logo=social-engineering-toolkit&logoColor=white)](https://github.com/trustedsec/social-engineer-toolkit)
-[![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white)](https://www.maltego.com/)
-[![Empire](https://img.shields.io/badge/Empire-000000?style=for-the-badge&logo=empire&logoColor=white)](https://github.com/EmpireProject/Empire)
 
 
+### Office Tools
 
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
+[![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
+[![WPS Office](https://img.shields.io/badge/WPS_Office-FFFFFF?style=for-the-badge&logo=wps&logoColor=blue)](https://www.wps.com/)
+[![Zoho Office Suite](https://img.shields.io/badge/Zoho_Office_Suite-FFD400?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/docs/)
+[![Collabora Online](https://img.shields.io/badge/Collabora_Online-0078D4?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.collaboraoffice.com/)
+
+### Operating Systems
+
+#### Desktop/Laptop OS
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![ParrotOS](https://img.shields.io/badge/ParrotOS-339933?style=for-the-badge&logo=parrot&logoColor=white)](https://www.parrotsec.org/)
+[![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)](https://blackarch.org/)
+[![Elementary OS](https://img.shields.io/badge/Elementary_OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)](https://elementary.io/)
+
+#### Mobile OS
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
+[![LineageOS](https://img.shields.io/badge/LineageOS-00A78D?style=for-the-badge&logo=lineageos&logoColor=white)](https://lineageos.org/)
+[![Ubuntu Touch](https://img.shields.io/badge/Ubuntu_Touch-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubports.com/)
 
 
 ### IDEs/Editors
@@ -170,40 +187,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/insiders)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-
-
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://aws.amazon.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.gnu.org/software/bash/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.blender.org/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://getbootstrap.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.cprogramming.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.chartjs.org)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.w3schools.com/css/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://dart.dev)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://expressjs.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.figma.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://firebase.google.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://flutter.dev)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://cloud.google.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://git-scm.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://heroku.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.w3.org/html/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.java.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.linux.org/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.microsoft.com/en-us/sql-server)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://nodejs.org)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://opencv.org/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.php.net)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://postman.com)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.python.org)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://reactjs.org/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://reactnative.dev/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://unrealengine.com/)
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://vuejs.org/)
 
 
 ## &#x1f4c8; GitHub Stats
