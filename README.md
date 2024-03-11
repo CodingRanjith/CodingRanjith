@@ -80,7 +80,96 @@
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
-#### Backend Development
+### Backend Development
+
+#### Frameworks:
+
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]()
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]()
+
+#### API:
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![RestApi](https://img.shields.io/badge/RestApi-%230769AD.svg?style=for-the-badge&logo=restapi&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+#### Databases:
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/)
+[![phpmyadmin](https://img.shields.io/badge/phpmyadmin-%234ea94b.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
+
+#### Cloud Devops
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+#### Hosting 
+
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Infinityfree](https://img.shields.io/badge/infinityfree-%231AC6FF.svg?style=for-the-badge&logo=Infinityfree&logoColor=white)](https://infinityfree.net/)
+
+### Mobile App Development
+
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
+### ML/DL
+
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
+### CyberSecurity and Ethical Hacking 
+
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-%23E9560D.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?style=for-the-badge&logo=metasploit&logoColor=red)](https://www.metasploit.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF9E2A.svg?style=for-the-badge&logo=burpsuite&logoColor=red)](https://portswigger.net/burp)
+[![OWASP](https://img.shields.io/badge/OWASP-%234A8C3B.svg?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
+[![Snort](https://img.shields.io/badge/Snort-%23F37626.svg?style=for-the-badge&logo=snort&logoColor=black)](https://www.snort.org/)
+[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-0AC918?style=for-the-badge&logo=johntheripper&logoColor=white)](https://www.openwall.com/john/)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-8C0000?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
+[![SQLmap](https://img.shields.io/badge/SQLmap-%232D2D2D.svg?style=for-the-badge&logo=sqlmap&logoColor=white)](http://sqlmap.org/)
+[![Hydra](https://img.shields.io/badge/Hydra-%238B0000.svg?style=for-the-badge&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Acunetix](https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&logo=acunetix&logoColor=white)](https://www.acunetix.com/)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-000000?style=for-the-badge&logo=openvas&logoColor=white)](https://www.openvas.org/)
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
+[![ZAP](https://img.shields.io/badge/ZAP-000000?style=for-the-badge&logo=owasp-zap&logoColor=white)](https://www.zaproxy.org/)
+[![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=mimikatz&logoColor=white)](https://github.com/gentilkiwi/mimikatz)
+[![DirBuster](https://img.shields.io/badge/DirBuster-000000?style=for-the-badge&logo=dirbuster&logoColor=white)](https://sourceforge.net/projects/dirbuster/)
+[![Social Engineering Toolkit](https://img.shields.io/badge/Social%20Engineering%20Toolkit-000000?style=for-the-badge&logo=social-engineering-toolkit&logoColor=white)](https://github.com/trustedsec/social-engineer-toolkit)
+[![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white)](https://www.maltego.com/)
+[![Empire](https://img.shields.io/badge/Empire-000000?style=for-the-badge&logo=empire&logoColor=white)](https://github.com/EmpireProject/Empire)
+
+
+
+
+
+### IDEs/Editors
+
+[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/)
+[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/insiders)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://www.arduino.cc/)
