@@ -2,9 +2,10 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingranjith&label=Profile%20views&color=0e75b6&style=flat" alt="codingranjith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingranjith" alt="codingranjith" /></a> </p>
+[![](https://github-profile-trophy.vercel.app/?username=codingranjith&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/codingranjith" target="blank"><img src="https://img.shields.io/twitter/follow/codingranjith?logo=twitter&style=for-the-badge" alt="codingranjith" /></a> </p>
+<p align="left"> <a href="linkedin.com/in/coding-ranjith-97b6ab238" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a> </p>
+
 
 - 🌱 Learning Never Stops 🚀
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **ranjith.c96me@gmail.com**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://codingranjith.github.io/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
