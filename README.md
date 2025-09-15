@@ -7,7 +7,7 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=codingranjith&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="linkedin.com/in/coding-ranjith-97b6ab238" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a> </p>
+<p align="left"> <a href="linkedin.com/in/coding-ranjith" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a> </p>
 
 
 - 🌱 Learning Never Stops 🚀
